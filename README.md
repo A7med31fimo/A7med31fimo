@@ -27,11 +27,8 @@ I'm studied in college of computer science and i practice more think about cs su
 </p>
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/A7med31fimo?label=Follow&style=social)](https://github.com/A7med31fimo)
 [![Linkedin](https://img.shields.io/badge/-Ahmed%20Fahim-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/ahmed-hussien1/](https://www.linkedin.com/in/a7med-fahim-685556214/))](https://www.linkedin.com/in/a7med-fahim-685556214/)
 [![Mail](https://img.shields.io/badge/-ahmedfahim5435644@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=ahmedfahim5435644@gmail.com
 )](mailto:ahmedfahim5435644@gmail.com
 )
-[![WhatsUp](https://img.shields.io/badge/01004860997-white?style=flat-square&logo=whatsup&logoColor=green
-)](
-)
+
