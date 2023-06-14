@@ -10,10 +10,11 @@ I'm studied in college of computer science and i practice more think about cs su
   - Java 
  
 - **Moblie App Development (Android native)**
-	- react native :white_check_mark:
+   - react native :white_check_mark:
+-  ** ML classification and regreesion **
+   - Python :white_check_mark:
 
-- **ML classification and regreesion **
-	- Python :white_check_mark:
+	
 
 ### Interesting stats
 
