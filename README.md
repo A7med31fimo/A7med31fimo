@@ -18,8 +18,8 @@ I'm studied in college of computer science and i practice more think about cs su
 ### Interesting stats
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med31fimo&layout=compact&theme=radical" alt="Ahmed Fahim" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical" alt="Ahmed Fahim" />
+<img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med31fimo&layout=compact&theme=radical" alt="Ahmed Fahim" />
+<img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical" alt="Ahmed Fahim" />
 </p>
 
 <p align="center">
