@@ -24,7 +24,7 @@ I'm studied in college of computer science and i practice more think about cs su
 
 <p align="center">
 <img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical" alt="Ahmed Fahim" />
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=A7med31fimo&theme=radical" alt="Ahmed Fahim" />
+<img width="45%" height="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=A7med31fimo&theme=radical" alt="Ahmed Fahim" />
 </p>
 
 ## Reach me 
