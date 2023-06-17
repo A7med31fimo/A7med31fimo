@@ -6,13 +6,13 @@ I'm studied in college of computer science and i practice more think about cs su
 
 ## What I know :computer:
 - **Competitive Programming**
-	- C++
-  - Java 
+  - *C++* :white_check_mark:
+  - *Java* :white_check_mark:
  
 - **Moblie App Development (Android native)**
-   - react native :white_check_mark:
+   - *react native* :white_check_mark:
 -  **ML classification and regreesion**
-   - Python :white_check_mark:
+   - *Python* :white_check_mark:
 
 	
 
