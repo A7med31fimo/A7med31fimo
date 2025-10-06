@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Ahmed Fahim  
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A7med31fimo/A7med31fimo/refs/heads/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2006_42_30%20PM.png" style="hight = 10px" alt="Ahmed Fahim Banner" width="100%">
+</p>
 
-### 💻 Backend Developer | Laravel & PHP Enthusiast | Problem Solver  
+<h1 align="center">👋 Hi, I'm Ahmed Fahim</h1>
+<h3 align="center">💻 Backend Developer | Laravel & PHP Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 🧠 About Me  
-I'm a Computer Science graduate passionate about **backend development, databases, and clean architecture**.  
-I love building scalable web applications using **Laravel** and **MySQL**, solving complex problems, and continuously learning new technologies to become a better engineer.  
+I'm a Computer Science graduate passionate about **backend development, databases, and software architecture**.  
+I enjoy building scalable systems using **Laravel** and **MySQL**, learning continuously, and solving real-world problems with clean, efficient code.  
 
-> “No amount of knowledge is enough — you should always keep learning and improving.” 🚀  
+> “No amount of knowledge is enough — always keep learning and improving.” 🚀  
 
 ---
 
@@ -16,7 +20,7 @@ I love building scalable web applications using **Laravel** and **MySQL**, solvi
 
 - **Backend Development**
   - PHP / Laravel / MySQL / RESTful APIs  
-  - Authentication, CRUD, Eloquent ORM, File Uploads  
+  - Authentication, Eloquent ORM, File Uploads  
 
 - **Frontend Basics**
   - HTML5 / CSS3 / JavaScript / Bootstrap  
@@ -26,8 +30,8 @@ I love building scalable web applications using **Laravel** and **MySQL**, solvi
 
 - **Other Skills**
   - Git & GitHub  
-  - React Native (Mobile Development Basics)  
-  - Machine Learning (Classification & Regression with Python)  
+  - React Native (Mobile Apps)  
+  - Machine Learning (Python)  
 
 ---
 
@@ -35,49 +39,49 @@ I love building scalable web applications using **Laravel** and **MySQL**, solvi
 
 ### 🩺 [Doctor Now](https://github.com/amrsheeka/Doctor_Now)
 > A medical appointment management system built with **Laravel** and **MySQL**, featuring:
-- Doctor and Patient authentication  
-- Appointment scheduling and time handling  
+- Doctor & Patient authentication  
+- Appointment scheduling and time control  
 - Complex database relationships  
-- Admin and user dashboards  
+- Admin dashboard and user profiles  
 
 ---
 
-### 📰 [Blog App (Laravel Auth System)](https://github.com/A7med31fimo/Laravel_Blog)
-> A Laravel blog system with:
-- User authentication (login/register)
-- CRUD operations for posts  
-- Image upload and storage  
-- Likes and comments system  
+### 📰 [Laravel Blog System](https://github.com/A7med31fimo/Laravel_Blog)
+> A complete Laravel blog platform with:
+- Auth system (Login / Register)
+- CRUD for posts  
+- Image upload  
+- Likes & comments feature  
 
 ---
 
 ### 🎮 [Pacman Game (Java)](https://github.com/Ahmed-hussien90/Pacman)
-> Classic **Pacman** game built with **Java**, focusing on logic, movement algorithms, and clean object-oriented design.  
+> Classic **Pacman** game built with Java — focuses on logic, AI pathfinding, and OOP design.  
 
 ---
 
-### 🤖 [ML Models (Python)](https://github.com/A7med31fimo/ML-Classification)
-> A collection of **Machine Learning** projects for:
-- Regression and classification tasks  
-- Data preprocessing and visualization  
-- Model evaluation using Python  
+### 🤖 [ML Projects (Python)](https://github.com/A7med31fimo/ML-Classification)
+> Machine Learning projects for:
+- Regression & Classification  
+- Data preprocessing  
+- Model evaluation  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med31fimo&layout=compact&theme=radical" alt="Ahmed Fahim Top Languages" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical" alt="Ahmed Fahim Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med31fimo&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=A7med31fimo&theme=radical" alt="Ahmed Fahim Streak Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=A7med31fimo&theme=radical" />
 </p>
 
 ---
 
-## 📬 Reach Me  
+## 📬 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-Ahmed%20Fahim-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-fahim-685556214/)  
 [![Mail](https://img.shields.io/badge/-ahmedfahim5435644@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:ahmedfahim5435644@gmail.com)  
