@@ -46,7 +46,7 @@ I enjoy building scalable systems using **Laravel** and **MySQL**, learning cont
 
 ---
 
-### 📰 [Laravel Blog System]([https://github.com/A7med31fimo/Laravel_Blog](https://github.com/A7med31fimo/Porject1-BLOG))
+### 📰 [Laravel Blog System](https://github.com/A7med31fimo/Porject1-BLOG)
 > A complete Laravel blog platform with:
 - Auth system (Login / Register)
 - CRUD for posts  
@@ -60,7 +60,7 @@ I enjoy building scalable systems using **Laravel** and **MySQL**, learning cont
 
 ---
 
-### 🤖 [ML Projects (Python)]([https://github.com/A7med31fimo/ML-Classification](https://github.com/A7med31fimo/final_project_image_classfication))
+### 🤖 [ML Projects (Python)](https://github.com/A7med31fimo/final_project_image_classfication)
 > Machine Learning projects for:
 - Regression & Classification  
 - Data preprocessing  
