@@ -1,10 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A7med31fimo/A7med31fimo/refs/heads/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2006_42_30%20PM.png" style="hight = 10px" alt="Ahmed Fahim Banner" width="100%">
-</p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Fahim</h1>
-<h3 align="center">💻 Backend Developer | Laravel & PHP Enthusiast | Problem Solver</h3>
+<h3 align="center">💻Software Engineer </h3>
 
 ---
 
@@ -19,8 +16,8 @@ I enjoy building scalable systems using **Laravel** and **MySQL**, learning cont
 ## 🧰 Tech Stack  
 
 - **Backend Development**
-  - PHP / Laravel / MySQL / RESTful APIs  
-  - Authentication, Eloquent ORM, File Uploads  
+  - PHP / Laravel / Java / SpringBoot/ MongoDB / Node.JS MySQL / RESTful APIs  
+  - Authentication,Validation,Mailing,Cashing, Design Patterns, Eloquent ORM, File Uploads  
 
 - **Frontend Basics**
   - HTML5 / CSS3 / JavaScript / Bootstrap  
