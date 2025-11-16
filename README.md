@@ -6,9 +6,7 @@
 ---
 
 ## 🧠 About Me  
-I'm a Computer Science graduate passionate about **backend development, databases, and software architecture**.  
-I enjoy building scalable systems using **Laravel** and **MySQL**, learning continuously, and solving real-world problems with clean, efficient code.  
-
+I'm a Computer Science graduate passionate about **Problem Solving ,backend development, databases, Moblie App and software architecture**.
 > “No amount of knowledge is enough — always keep learning and improving.” 🚀  
 
 ---
