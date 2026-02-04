@@ -65,7 +65,7 @@ I'm a Computer Science graduate passionate about **Problem Solving ,backend deve
 
 ## 📬 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-Ahmed%20Fahim-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-fahim-685556214/)  
+[![LinkedIn](https://img.shields.io/badge/-Ahmed%20Fahim-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fahim-685556214)  
 [![Mail](https://img.shields.io/badge/-ahmedfahim5435644@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:ahmedfahim5435644@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-A7med31fimo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/A7med31fimo)
 
