@@ -61,19 +61,7 @@ I'm a Computer Science graduate passionate about **Problem Solving ,backend deve
 - Data preprocessing  
 - Model evaluation  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7med31fimo&layout=compact&theme=radical&cache_seconds=1800" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=A7med31fimo&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://streak-stats.demolab.com?user=A7med31fimo&theme=radical" />
-</p>
----
 
 ## 📬 Connect With Me  
 
