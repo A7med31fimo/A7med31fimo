@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">👋 Hi, I'm Ahmed Fahim</h1>
-<h3 align="center">💻Software Engineer at Extabyte</h3>
+<h3 align="center">💻 Software Engineer at COB Solution</h3>
 
 ---
 
@@ -17,7 +17,7 @@ I'm a Computer Science graduate passionate about **problem solving, backend deve
   - PHP / Laravel / Java / Spring Boot / Node.js / MongoDB / MySQL / RESTful APIs  
   - Authentication, Validation, Mailing, Caching, Design Patterns, Eloquent ORM, File Uploads  
 
-- **Frontend Basics**
+- **Frontend**
   - HTML5 / CSS3 / JavaScript / Bootstrap  
   - React / Next.js  
 
