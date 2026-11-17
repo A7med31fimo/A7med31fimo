@@ -19,12 +19,14 @@ I'm a Computer Science graduate passionate about **problem solving, backend deve
 
 - **Frontend Basics**
   - HTML5 / CSS3 / JavaScript / Bootstrap  
+  - React / Next.js  
 
 - **Problem Solving**
   - C++ / Java  
 
 - **Other Skills**
   - Git & GitHub  
+  - Docker  
   - React Native (Mobile Apps)  
   - Machine Learning (Python)  
 
